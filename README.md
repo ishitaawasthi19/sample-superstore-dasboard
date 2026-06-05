@@ -6,10 +6,10 @@ This Tableau dashboard provides insights into sales and profit performance acros
 ## Dashboard Preview
 
 ### Dashboard 1
-![Dashboard 1](Screenshot1.png)
+![Dashboard 1](superstore_dashboard1.png)
 
 ### Dashboard 2
-![Dashboard 2](Screenshot2.png)
+![Dashboard 2](superstore_dashboard2.png)
 
 ## Key Insights
 
